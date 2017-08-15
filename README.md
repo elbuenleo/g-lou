@@ -1,2 +1,3 @@
 # g-lou
-My frist repository
+My 1st repository
+tengo sueño :(
